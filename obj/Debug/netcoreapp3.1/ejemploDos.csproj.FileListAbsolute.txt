@@ -1,0 +1,13 @@
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.exe
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.deps.json
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.runtimeconfig.json
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.runtimeconfig.dev.json
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.dll
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.pdb
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.csprojAssemblyReference.cache
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.AssemblyInfoInputs.cache
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.AssemblyInfo.cs
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.csproj.CoreCompileInputs.cache
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.dll
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.pdb
+G:\lenguaje de programacion\ejemplosOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.genruntimeconfig.cache
